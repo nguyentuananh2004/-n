@@ -1,0 +1,62 @@
+<mxfile host="app.diagrams.net" modified="2023-10-05T04:11:59.832Z" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_9 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.6 Mobile/15E148 Safari/604.1" etag="yuNopBaDEWkXtxHlegM_" version="22.0.2" type="github">
+  <diagram name="Trang-1" id="DE7-dxVJ_dqI1F19Ls0-">
+    <mxGraphModel dx="447" dy="981" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YtZLGmecpSfVnbIszGLV-1" value="Học viên" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="99" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="YtZLGmecpSfVnbIszGLV-2" value="" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="90" width="120" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="YtZLGmecpSfVnbIszGLV-3" value="Môn học" style="whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="99" y="194" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="YtZLGmecpSfVnbIszGLV-5" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="161" y="3" as="sourcePoint" />
+            <mxPoint x="178" y="-99" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YtZLGmecpSfVnbIszGLV-6" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="154" y="3" as="sourcePoint" />
+            <mxPoint x="265" y="-61" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YtZLGmecpSfVnbIszGLV-10" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YtZLGmecpSfVnbIszGLV-1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="159" as="sourcePoint" />
+            <mxPoint x="107" y="-65.95121951219517" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YtZLGmecpSfVnbIszGLV-11" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="49" y="-91" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YtZLGmecpSfVnbIszGLV-12" value="Năm học" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="253" y="-81" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YtZLGmecpSfVnbIszGLV-13" value="Họ tên" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="153" y="-132" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YtZLGmecpSfVnbIszGLV-14" value="Điểm thi" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="95" y="90" width="128" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="YtZLGmecpSfVnbIszGLV-16" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="140" relative="1" as="geometry">
+            <mxPoint x="159" y="238" as="sourcePoint" />
+            <mxPoint x="173" y="304" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YtZLGmecpSfVnbIszGLV-17" value="Tên môn" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="150" y="304" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
